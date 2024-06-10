@@ -1,0 +1,2 @@
+# Ira
+{SpeachRecogniton + openai API } 
